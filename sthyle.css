@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+/* =====================All-Common_CSS===================== */
+
+.one{
+    height: 1000px;
+    background: url(../phitoes-practise-1/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.two{
+    margin: 0 auto;
+    width: 1300px;
+}
+
+.three{
+    padding: 20px 0;
+    /* background: teal; */
+}
+
+.menu ul li a{
+    display: inline-block;
+    float: left;
+    padding: 40px 20px;
+    color: white;
+    font-weight: 400;
+
+    
+}
+
+.logo{
+    float: left;
+    padding: 0 300px 0 0;
+
+}
+
+.shimul{
+    height: 400px;
+    width: 1000px;
+    margin: 300px auto;
+
+}
+
+.four{
+    font-size: 25px;
+    color: white;
+    padding: 10px 350px;
+
+}
+
+.four_a{
+    color: white;
+    font-size: 55px;
+    font-weight: 900;
+    padding: 10px 200px;
+}
+
+.four_b{
+    color: white;
+    font-size: 20px;
+    padding: 30px 198px;
+    text-align: center;
+}
+
+.button{
+    height: 56px;
+    width: 170px;
+    background: #998675;
+    border-radius: 10px;
+    margin: 0 400px;
+}
+
+.button_2{
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
